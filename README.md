@@ -1,16 +1,7 @@
 # dc
 
-A new Flutter project.
+<h1>A sample work.</h1>
 
-## Getting Started
+![Dashboard](https://firebasestorage.googleapis.com/v0/b/flutter-bf503.appspot.com/o/work%2FWhatsApp%20Image%202021-12-11%20at%2012.36.35.jpeg?alt=media&token=5f9e2e72-cc2b-4e41-802b-183765d24cce)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Payment Tracker](https://firebasestorage.googleapis.com/v0/b/flutter-bf503.appspot.com/o/work%2FWhatsApp%20Image%202021-12-11%20at%2012.36.35%20(1).jpeg?alt=media&token=2ddd9757-4da1-40d2-a7cb-a55a9f2ed268)
